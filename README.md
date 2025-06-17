@@ -20,5 +20,14 @@ Each thread opens a socket connection to the server.
 
 Sends a message and prints the server response.
 
+Expected Output : Response from the socket is :Hello from the server
+
+
+👨‍💻 AUTHOR
+
+Mohit Derek
+
+Open for contributions, suggestions, or forks!
+
 
 
